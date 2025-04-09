@@ -8,14 +8,13 @@ module.exports = {
     extend: {
       colors: {
         "brandprimary-base": "var(--brandprimary-base)",
-        "color-fill-colorsneutralneutral-7":
-          "var(--color-fill-colorsneutralneutral-7)",
         "neutral-neutral-0": "var(--neutral-neutral-0)",
-        "neutral-neutral-1": "var(--neutral-neutral-1)",
         "neutral-neutral-10": "var(--neutral-neutral-10)",
-        "neutral-neutral-5": "var(--neutral-neutral-5)",
+        "neutral-neutral-2": "var(--neutral-neutral-2)",
+        "neutral-neutral-4": "var(--neutral-neutral-4)",
         "neutral-neutral-7": "var(--neutral-neutral-7)",
         "neutral-neutral-9": "var(--neutral-neutral-9)",
+        "neutralneutral-6": "var(--neutralneutral-6)",
         "neutralneutral-8": "var(--neutralneutral-8)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -55,7 +54,6 @@ module.exports = {
         "actions-s": "var(--actions-s-font-family)",
         "desktop-body-s": "var(--desktop-body-s-font-family)",
         "desktop-body-XS": "var(--desktop-body-XS-font-family)",
-        "desktop-h4-semibold": "var(--desktop-h4-semibold-font-family)",
         sans: [
           "ui-sans-serif",
           "system-ui",
@@ -66,7 +64,6 @@ module.exports = {
           '"Noto Color Emoji"',
         ],
       },
-      boxShadow: { "border-bottom": "var(--border-bottom)" },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",

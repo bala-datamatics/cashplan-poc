@@ -14,9 +14,7 @@
   --actions-s-font-weight: 500;
   --actions-s-letter-spacing: 0px;
   --actions-s-line-height: 21px;
-  --border-bottom: ;
   --brandprimary-base: rgba(0, 121, 200, 1);
-  --color-fill-colorsneutralneutral-7: rgba(106, 113, 120, 1);
   --desktop-body-s-font-family: "Roboto", Helvetica;
   --desktop-body-s-font-size: 14px;
   --desktop-body-s-font-style: normal;
@@ -29,18 +27,13 @@
   --desktop-body-XS-font-weight: 400;
   --desktop-body-XS-letter-spacing: 0px;
   --desktop-body-XS-line-height: 18px;
-  --desktop-h4-semibold-font-family: "Roboto", Helvetica;
-  --desktop-h4-semibold-font-size: 22px;
-  --desktop-h4-semibold-font-style: normal;
-  --desktop-h4-semibold-font-weight: 500;
-  --desktop-h4-semibold-letter-spacing: 0px;
-  --desktop-h4-semibold-line-height: 27px;
   --neutral-neutral-0: rgba(255, 255, 255, 1);
-  --neutral-neutral-1: rgba(248, 249, 250, 1);
   --neutral-neutral-10: rgba(16, 18, 19, 1);
-  --neutral-neutral-5: rgba(206, 212, 218, 1);
+  --neutral-neutral-2: rgba(241, 243, 245, 1);
+  --neutral-neutral-4: rgba(222, 226, 230, 1);
   --neutral-neutral-7: rgba(106, 113, 120, 1);
   --neutral-neutral-9: rgba(39, 43, 48, 1);
+  --neutralneutral-6: rgba(173, 181, 189, 1);
   --neutralneutral-8: rgba(79, 87, 94, 1);
 }
 
