@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { ElementAddNewContact } from './screens/ElementAddNewContact/ElementAddNewContact';
+import { ElementCreateNew } from './screens/ElementCreateNew/ElementCreateNew';
 
 export const AppRoutes = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<ElementAddNewContact />} />
+        <Route path="/" element={<ElementCreateNew />} />
       </Routes>
     </Router>
   );
