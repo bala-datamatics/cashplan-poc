@@ -1,0 +1,1 @@
+export { IntermediariesTableSection } from "./IntermediariesTableSection";

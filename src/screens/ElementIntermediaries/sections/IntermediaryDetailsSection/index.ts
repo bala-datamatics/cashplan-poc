@@ -1,0 +1,1 @@
+export { IntermediaryDetailsSection } from "./IntermediaryDetailsSection";
